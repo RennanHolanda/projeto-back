@@ -38,10 +38,15 @@ para rodar o projeto basta seguir os seguintes comandos
 - Preencher o arquivo .ENV
 
 DB_USER=root //ou nome do usuário do banco de dados
+
 DB_PASS= //Inserir a senha do banco de dados, caso não tenha, deixar somente o sinal de igual após a variável de ambiente criada
+
 DBN_NAME=databaseName //Inserir o nome do banco de dados (caso não exista, o sequelize irá criar)
-DB_HOST=localhost //Ou ip do servidor
+
+DB_HOST=localhost //Ou ip do servido
+
 DB_DIALECT=mysql //Inserir o dialeto do banco de dados: mysql, pg, oracle, etc..
+
 DB_PORT=3306 //Inserir a porta do banco de dados, verificar no XAMPP a porta do mysql
 
 -para dropar o banco de dados execute o comando:
