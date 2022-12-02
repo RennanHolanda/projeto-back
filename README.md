@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src="./img/capa.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
