@@ -31,7 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 para rodar o projeto basta seguir os seguintes comandos
 
-- npm init para instalar as dependências
+ - npm init -y
+ - npm install express ejs uuid method-override
+ - npm i nodemon -D
+ - npm i
+ - nodemon 
 
 .obs projeto executado com variáveis de hambientes
 
